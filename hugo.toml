@@ -1,7 +1,7 @@
 baseURL = "https://blog.notifyer.xyz"
 title = "Hugo Start"
 paginate = 5.0
-theme = "hugo-PaperMod"
+theme = "PaperMod"
 languageCode = "zh"
 DefaultContentLanguage = "zh"
 hasCJKLanguage = true
