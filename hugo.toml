@@ -1,4 +1,4 @@
-baseURL = "https://blog.notifyer.xyz"
+baseURL = "https://hugo-start-d0i.pages.dev/"
 title = "Hugo Start"
 paginate = 5.0
 theme = "PaperMod"
