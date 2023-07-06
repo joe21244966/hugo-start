@@ -1,7 +1,7 @@
 baseURL = "https://hugo-start-d0i.pages.dev"
 title = "Hugo Start"
 paginate = 5.0
-theme = "hugo-PaperMod"
+theme = "github.com/adityatelange/hugo-PaperMod"
 languageCode = "zh"
 DefaultContentLanguage = "zh"
 hasCJKLanguage = true
