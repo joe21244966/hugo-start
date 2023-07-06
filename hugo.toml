@@ -95,7 +95,7 @@ tocopen = false
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/DejavuMoe/hugo-start/edit/master/content/posts"
+  URL = "https://github.com/joe21244966/hugo-start/tree/master/content/posts"
   Text = "Edit on GitHub"
   appendFilePath = true
 
@@ -115,11 +115,11 @@ tocopen = false
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/DejavuMoe/hugo-start"
+  url = "https://github.com/joe21244966/hugo-start"
 
   [[params.socialIcons]]
   name = "mastodon"
-  url = "https://sink.love/@dejavu"
+  url = "https://github.com/joe21244966/hugo-start"
 
 [menu]
 
@@ -144,7 +144,7 @@ tocopen = false
   [[menu.main]]
   identifier = "仓库"
   name = "仓库"
-  url = "https://github.com/DejavuMoe/hugo-start"
+  url = "https://github.com/joe21244966/hugo-start"
   weight = 30.0
 
 [markup]
